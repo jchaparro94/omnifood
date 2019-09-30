@@ -391,3 +391,23 @@ cite img {
     margin-right: 10px;
     vertical-align: middle;
 }
+
+/*======================================*/
+/* PLAN SECTION */
+/*======================================*/
+
+.section-plan {
+    background-color: #f4f4f4;   
+}
+
+.plan-box {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.plan-box div {
+    padding: 15px;
+    border-bottom: 1px solid #e8e8e8;
+}
