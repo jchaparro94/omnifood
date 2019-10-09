@@ -8,13 +8,15 @@
     box-sizing: border-box;
 }
 
-html {
+html,
+body {
     background-color: #fff;
     color: #555;
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
 }
 
 .clearfix {zoom: 1}
@@ -210,6 +212,7 @@ header {
     height: 100px;
     width: auto;
     float: left;
+    padding-top: 15px;
 }
 
 .main-nav {
